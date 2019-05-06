@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - userInput",
+            "request": "launch",
+            "mainClass": "userInput",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - forLoops",
+            "request": "launch",
+            "mainClass": "forLoops",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whileLoops",
+            "request": "launch",
+            "mainClass": "whileLoops",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "java-tutorials_9cd5483a"
+        }
+    ]
+}
