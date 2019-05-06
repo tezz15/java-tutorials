@@ -14,5 +14,6 @@ public class userInput {
         //show the input of the user to the user
         System.out.println(line);
         
+        //int integer = input.nextInt();  for integer
     }
 }

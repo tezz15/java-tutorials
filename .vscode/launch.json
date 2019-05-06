@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - switchInput",
+            "request": "launch",
+            "mainClass": "switchInput",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - userInput",
             "request": "launch",
             "mainClass": "userInput",
