@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CreateMethod",
+            "request": "launch",
+            "mainClass": "CreateMethod",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - createClass",
+            "request": "launch",
+            "mainClass": "createClass",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mulDArrays",
+            "request": "launch",
+            "mainClass": "mulDArrays",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stringArrays",
+            "request": "launch",
+            "mainClass": "stringArrays",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "java-tutorials_9cd5483a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - switchInput",
             "request": "launch",
             "mainClass": "switchInput",
